@@ -4,6 +4,8 @@
 
 This is a fork of the official .NET log shippers of [Logz.io](http://www.logz.io).
 
+**NOTE: Since this fork was created, the official shippers added support for .NET Core, making this fork obsolete.**
+
 This repository contains the [Logz.io](http://www.logz.io) shippers for .NET frameworks, currently including [log4net](https://logging.apache.org/log4net/) and [NLog](http://nlog-project.org/).
 
 - [log4net appender installation and configuration](docs/log4net.md)
